@@ -1,0 +1,19 @@
+{
+  "name": "eindopdracht-6v",
+  "version": "1.0.0",
+  "description": "Dit is de webapp van de eindopdracht voor 6v",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cam-emmauscollege/eindopdracht-6v.git"
+  },
+  "author": "A.P. Cammeraat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cam-emmauscollege/eindopdracht-6v/issues"
+  },
+  "homepage": "https://github.com/cam-emmauscollege/eindopdracht-6v#readme"
+}
